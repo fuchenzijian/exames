@@ -14,7 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-这是master分支上的代码
+这是develop分支上的代码
 
 ### Run your unit tests
 ```
